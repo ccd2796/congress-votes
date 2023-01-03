@@ -7,7 +7,7 @@ Steps:
   - Used OpenCV to detect the title and the table with votes.
   - Sliced the table in three columns.
   - Used PyTesseract to read the text in sliced images
-  - Used HCA to detect the number of votes in each column and classify detected text in rows. 
+  - Used HCA to count the number of votes in each column and classify detected text in rows. 
   - Stored output in preliminar file.
   - Curated the results in two steps: name of congresspeople was detected using Jaro-Winkler distance, political party and vote were curated manually.
   
