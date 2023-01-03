@@ -1,0 +1,4 @@
+1. Descargar PDFs y nombrar con formato YYYYMMDD en Datos/Input
+2. Crear archivo txt en DAtos/Input con fecha formato YYYYMMDD y modificar primer renglón con páginas que tengan votaciones
+3. Correr main.py con la fecha con formato YYYYMMDD
+4. Correr curar_datos

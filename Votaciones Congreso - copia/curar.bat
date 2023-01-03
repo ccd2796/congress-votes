@@ -1,0 +1,1 @@
+C:\ProgramData\Anaconda3\python.exe -i "C:\Users\Asus\Documents\Python\Notebooks\ushnu\votaciones congreso\curar_datos.py"

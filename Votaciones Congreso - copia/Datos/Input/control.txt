@@ -1,0 +1,73 @@
+20210805 check
+20210812 check
+20210819 check
+20210824 check
+20210827 check
+20210902 check
+20210909 check
+20210916 check
+20210917 check
+20210929 check
+20211019 check
+20211021 check
+20211028 check
+20211104 check
+20211111 check
+20211118 check
+20211123 check
+20211125 check
+20211207 check
+20211209 check
+20211216 check
+20211217 check
+20211221 check
+20220112 check
+20220113 check
+20220121 check
+20220131 check
+20220201 check
+20220202 check
+20220228 check
+20220301 check
+20220308 check
+20220310 check
+20220314 check
+20220316 check
+20220328 check
+20220331 check
+20220404 check
+20220407 check
+20220412 check
+20220427 check
+20220428 check
+20220503 check
+20220504 check
+20220505 check
+20220510 check
+20220511 check
+20220512 check
+20220525 check
+20220526 check
+20220601 check
+20220602 check
+20220609 check
+20220615 check
+20220616 check
+20220630 check
+20220706 check
+20220707 check
+20220712 check
+20220713 check
+20220714 check
+20220715 check
+
+notas:
+-votacion 20210726 no tiene formato adecuado
+-hubieron 2 pdf votaciones el 20210916, se puso la segunda
+como 20210917
+-las ultimas 2 votaciones de 20211028 no tiene formato
+adecuado
+-el 20220504, 20220505 CD alterna con CD-JPP, se puso CD-JPP
+-curando constancias de votos 20220427:voto 3, voto de chirinos se dejo en SI,
+por intencion de voto
+
