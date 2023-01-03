@@ -19,4 +19,5 @@ Steps:
   - Constructed the distance measure: the % of votations that two congresspeople voted equally.
   - Applied HCA to detect the 10 more prominent groups within congress.
   
- 
+Votes are available in Votos.csv
+Results of HCA can be found in Clusters.xlsx
