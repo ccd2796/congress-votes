@@ -2,8 +2,7 @@
 OCR applied to detect votes in the Congress of the Republic of Peru
 
 Steps:
-  -PDF files with scanned acts of votations were downloaded from [here](https://www.congreso.gob.pe/AsistenciasVotacionesPleno/).
-
+  - PDF files with scanned acts of votations were downloaded from [here](https://www.congreso.gob.pe/AsistenciasVotacionesPleno/).
   - Manually labeled pages with votations to be converted to images.
   - Used OpenCV to detect the title and the table with votes.
   - Sliced the table in three columns and used PyTesseract to detect the number of votes in each column.
