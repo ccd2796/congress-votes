@@ -5,8 +5,10 @@ Steps:
   - PDF files with scanned acts of votations were downloaded from [here](https://www.congreso.gob.pe/AsistenciasVotacionesPleno/).
   - Manually labeled pages with votations to be converted to images.
   - Used OpenCV to detect the title and the table with votes.
-  - Sliced the table in three columns and used PyTesseract to detect the number of votes in each column.
-  - Used PyTesseract to read the text in sliced images, stored output in preliminar file.
+  - Sliced the table in three columns.
+  - Used PyTesseract to read the text in sliced images
+  - Used HCA to detect the number of votes in each column. 
+  - Stored output in preliminar file.
   - Curated the results in two steps: name of congresspeople was detected using Jaro-Winkler distance, political party and vote were curated manually.
   
  Steps for community detection:
